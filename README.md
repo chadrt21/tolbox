@@ -40,22 +40,27 @@ Automated portable application to automatically run computer diagnostics and mai
   - [ ] PDF Report
      
 - [ ] Benchmark/Stability Test
+  - [ ] Bluescreenview
   - [ ] OCCT
   - [ ] Heaven
   - [ ] 3DMark (portable?)
   - [ ] Cyperpunk2077
   - [ ] memtest86
-  - [ ] Bluescreenview
+  - [ ] PDF Report
       
-- [ ] Transfer
+- [ ] Transfer/Setup
   - [ ] Set TimeZone
   - [ ] OS Update
   - [ ] DISM/SFC
-  - [ ] Remove trail software (GeekUninstaller)
-  - [ ] Transfer (Fab's AutoBackup 7, PCMover, etc.)
+  - [ ] Remove trail software/bloatware (GeekUninstaller)
+  - [ ] Transfer data & applicable apps (Fab's AutoBackup 7, PCMover, etc.)
   - [ ] VirusScan (Malewarebytes, ESET, McAfee, etc.)
   - [ ] Remove broken shortcuts (shrman)
+  - [ ] Install requested applications (Google Chrome, Firefox, Steam, AV (ESET, McAfee, Norton), ONLYOFFICE, Adobe PDF, etc.)
   - [ ] PDF Report
       
 - [ ] Backup
   - [ ] Backup (Fab's AutoBackup 7, MS File History, etc.)
+  - [ ] PDF Report
+  
+- [ ] Custom Run
