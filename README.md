@@ -3,10 +3,10 @@ Automated portable application to automatically run computer diagnostics and mai
 
 ## Displays
 - [ ] OS (Version; last OS update date)
-- [ ] CPU (CPU Temp Graph)
-- [ ] GPU (GPU Temp Graph)
+- [ ] CPU (CPU Temp Graph; Utilization Graph; Speed Graph)
+- [ ] GPU (GPU Temp Graph; Utilization Graph)
 - [ ] RAM (# of slots available)
-- [ ] SDD/HDD (Usage Graph; % of free space; % fragmentation)
+- [ ] SDD/HDD (Usage Graph; % of free space; total space; % fragmentation (HDD only))
 - [ ] Battery (charge status; charge %; health %)
 - [ ] AV (Active/Expired)
 - [ ] Last backup date (File History, OneDrive, Carbinate, Dropbox, etc.)
@@ -19,7 +19,7 @@ Automated portable application to automatically run computer diagnostics and mai
   - [ ] Delete save points (possiblly contain viruses)
   - [ ] Virus check (Malewarebytes, ESET, McAfee, etc.)
   - [ ] Autoruns
-  - [ ] Driver Updates (SnappyDrivers)
+  - [ ] Driver Updates (SnappyDrivers, AMD Adrenalin, NIVIDA GeForce)
   - [ ] Create save point
   - [ ] PDF Report
 
@@ -29,9 +29,11 @@ Automated portable application to automatically run computer diagnostics and mai
   - [ ] Delete save points (possiblly contain viruses)
   - [ ] Virus check (Malewarebytes, ESET, McAfee, etc.)
   - [ ] Autoruns
-  - [ ] Driver Updates (SnappyDrivers)
-  - [ ] Defrag Option (only HDD)
+  - [ ] OS updates
+  - [ ] Driver Updates (SnappyDrivers, AMD Adrenalin, NIVIDA GeForce)
+  - [ ] Restart
   - [ ] Create save point
+  - [ ] Defrag Option (only HDD)
   - [ ] OCCT
   - [ ] Heaven
   - [ ] Cyperpunk2077
