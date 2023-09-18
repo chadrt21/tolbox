@@ -1,0 +1,11 @@
+C:\Users\Chad\RiderProjects\Tooltestv1\bin\Debug\Tooltestv1.exe.config
+C:\Users\Chad\RiderProjects\Tooltestv1\bin\Debug\Tooltestv1.exe
+C:\Users\Chad\RiderProjects\Tooltestv1\bin\Debug\Tooltestv1.pdb
+C:\Users\Chad\RiderProjects\Tooltestv1\obj\Debug\Tooltestv1.csproj.AssemblyReference.cache
+C:\Users\Chad\RiderProjects\Tooltestv1\obj\Debug\Tooltestv1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Chad\RiderProjects\Tooltestv1\obj\Debug\Tooltestv1.Properties.Resources.resources
+C:\Users\Chad\RiderProjects\Tooltestv1\obj\Debug\Tooltestv1.csproj.GenerateResource.cache
+C:\Users\Chad\RiderProjects\Tooltestv1\obj\Debug\Tooltestv1.csproj.CoreCompileInputs.cache
+C:\Users\Chad\RiderProjects\Tooltestv1\obj\Debug\Tooltestv1.exe
+C:\Users\Chad\RiderProjects\Tooltestv1\obj\Debug\Tooltestv1.pdb
+C:\Users\Chad\RiderProjects\Tooltestv1\obj\Debug\Tooltestv1.Form1.resources
